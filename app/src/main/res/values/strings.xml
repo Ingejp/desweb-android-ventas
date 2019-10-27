@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desweb2019</string>
+    <string name="precio">Precio</string>
+    <string name="id">Id Producto</string>
+    <string name="nombre">Nombre Producto</string>
+
+
+</resources>
